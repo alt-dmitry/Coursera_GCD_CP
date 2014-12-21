@@ -1,9 +1,9 @@
-- activity
+- activity.
 Name of the activity. The are six possible cases:
 LAYING             SITTING            STANDING          
 WALKING            WALKING_DOWNSTAIRS WALKING_UPSTAIRS
 
-- subject
+- subject.
 Subject identifier (from 1 to 30).
 
 - 66 signal variables
